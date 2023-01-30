@@ -1,0 +1,15 @@
+[submodule "tp1-05"]
+	path = tp1-05
+	url = https://github.com/LOG2440-20221/tp1-05.git
+[submodule "tp2-05"]
+	path = tp2-05
+	url = https://github.com/LOG2440-20221/tp2-05.git
+[submodule "tp3-05"]
+	path = tp3-05
+	url = https://github.com/LOG2440-20221/tp3-05.git
+[submodule "tp4-05"]
+	path = tp4-05
+	url = https://github.com/LOG2440-20221/tp4-05.git
+[submodule "tp5-05"]
+	path = tp5-05
+	url = https://github.com/LOG2440-20221/tp5-05.git
